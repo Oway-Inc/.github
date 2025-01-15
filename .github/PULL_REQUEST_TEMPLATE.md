@@ -1,6 +1,9 @@
 ## Linear ticket number
  - OWA-[#]
 
+## Describe your changes
+
+
 ## Confidence and impact
  - **Confidence Level (1-5)**: 
    - [ ] 1 (low confidence)
@@ -15,5 +18,3 @@
    - [ ] 3
    - [ ] 4
    - [ ] 5 (high impact)
-
-## Describe your changes
