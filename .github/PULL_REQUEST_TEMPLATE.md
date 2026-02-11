@@ -1,20 +1,13 @@
-## Linear ticket number
- - OWA-[#]
+## Summary
 
-## Describe your changes
-*Insert a description of your changes here*
+## Linear Ticket
 
-## Confidence and impact
- - **Confidence Level (1-5)**: 
-   - [ ] 1 (low confidence)
-   - [ ] 2
-   - [ ] 3
-   - [ ] 4
-   - [ ] 5 (high confidence)
+## Screenshots
 
- - **Impact Level (1-5)**: 
-   - [ ] 1 (low impact)
-   - [ ] 2
-   - [ ] 3
-   - [ ] 4
-   - [ ] 5 (high impact)
+## Changes
+
+## Test Steps
+
+**Confidence:** /5
+
+**Impact:** /5
